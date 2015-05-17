@@ -1,0 +1,27 @@
+.board {
+	border: 5px solid gray;
+	width: 10%;
+	padding: 5%;
+	float:left;
+	background-color: blue;
+}
+
+h4 {
+	padding: 1px;
+	margin: 10px;
+	font-size: 14px;
+}
+
+h1 {
+	text-align:center;
+}
+
+#center {
+	margin-left: 8%px;
+}
+
+#reset {
+	padding: 4%;
+	border-style: groove;
+	cursor: pointer;
+}
