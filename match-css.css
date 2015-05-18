@@ -1,0 +1,26 @@
+.board {
+	border: 5px solid gray;
+	width: 10%;
+	padding: 5%;
+	float:left;
+}
+
+h4 {
+	padding: 1px;
+	margin: 10px;
+	font-size: 14px;
+}
+
+h1 {
+	text-align:center;
+}
+
+#reset {
+	padding: 4%;
+	border-style: groove;
+	cursor: pointer;
+}
+
+#matched {
+	border: 5px solid green;
+}
