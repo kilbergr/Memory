@@ -82,9 +82,3 @@ reset.addEventListener("click", function(){
 });
 
 
-//Reset button
-var reset = document.getElementById("reset");
-reset.addEventListener("click", function(){
-	matchingGame();
-});
-
