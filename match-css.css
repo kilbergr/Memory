@@ -24,3 +24,11 @@ h1 {
 #matched {
 	border: 5px solid green;
 }
+
+#hide {
+	visibility: hidden;
+}
+
+#show {
+	visibility: visible;
+}
