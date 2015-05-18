@@ -78,7 +78,7 @@ function matchingGame(){
 //Reset button
 var reset = document.getElementById("reset");
 reset.addEventListener("click", function(){
-	matchingGame();
+	location.reload();
 });
 
 
